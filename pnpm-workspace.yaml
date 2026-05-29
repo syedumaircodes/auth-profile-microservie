@@ -1,4 +1,9 @@
-packages: -"apps/*"
+packages:
+  - "apps/*"
   - "libs/*"
+
+allowBuilds:
+  '@nestjs/core': true
+  unrs-resolver: true
 
 dangerouslyAllowBuilds: true
