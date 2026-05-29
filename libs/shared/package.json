@@ -1,0 +1,6 @@
+{
+  "name": "@auth=profile-microservice/shared",
+  "version": "v0.1.1",
+  "private": "true",
+  "main": "src/index.ts"
+}
